@@ -1,5 +1,5 @@
-# SkyGuard AI — Smart India Hackathon 2026 Demo
-# Problem Statement: 26073 — AI/ML-Based Intelligent Anomaly Detection for AWS
+# SkyGuard AI —  Demo
+#  AI/ML-Based Intelligent Anomaly Detection for AWS
 # Ministry of Earth Sciences | India Meteorological Department
 
 ## 1. What is this?
